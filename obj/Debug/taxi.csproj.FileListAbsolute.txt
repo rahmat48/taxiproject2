@@ -1,0 +1,6 @@
+E:\classobject\taxi\taxi\bin\Debug\taxi.exe.config
+E:\classobject\taxi\taxi\bin\Debug\taxi.exe
+E:\classobject\taxi\taxi\bin\Debug\taxi.pdb
+E:\classobject\taxi\taxi\obj\Debug\taxi.csprojResolveAssemblyReference.cache
+E:\classobject\taxi\taxi\obj\Debug\taxi.exe
+E:\classobject\taxi\taxi\obj\Debug\taxi.pdb
